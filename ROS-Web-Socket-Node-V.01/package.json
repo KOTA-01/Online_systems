@@ -1,0 +1,21 @@
+{
+  "name": "ros-web-socket-node-v.01",
+  "version": "1.0.0",
+  "description": "SLAVE for communication systems from the MASTER. Graphical interface and websocket.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ROS",
+    "Rover",
+    "Grasshopper"
+  ],
+  "author": "KOTA-01",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "roslib": "^1.4.1"
+  },
+  "type": "module"
+}
